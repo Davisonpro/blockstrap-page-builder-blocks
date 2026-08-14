@@ -182,6 +182,9 @@ Automatic updates should work seamlessly. To avoid unforeseen problems, we alway
 
 == Changelog ==
 
+= 0.1.57 - 2026-08-TBD =
+* Enqueue block editor styles via block assets for iframe compatibility - COMPATIBILITY
+
 = 0.1.56 - 2026-06-24 =
 * Merge AUI 0.2.50 & SD 1.2.33 - CHANGED
 
